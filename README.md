@@ -28,7 +28,7 @@ Install Nginx reverse proxy to make this application available
 `sudo apt-get update`
 `sudo apt install nginx`
 
-## Installation of buildpacks
+# Installation of cloud native buildpacks (run without dockerfile)
 
 #steps
 - Update your machine
