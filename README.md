@@ -63,8 +63,8 @@ git clone <git_repo>
 pack build suggest
 ```
 https://prnt.sc/S8ObcxoFQfLX
-![screenshot] (Pictures\Screenshots 152.jpg)
-![Logo](logo.jpg)
+![screenshot](Screenshots(152).jpg)
+
 
 - Copy the google builder and paste in the command
 ```bash
