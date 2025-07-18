@@ -62,9 +62,6 @@ git clone <git_repo>
 ```bash
 pack build suggest
 ```
-https://prnt.sc/S8ObcxoFQfLX
-![screenshot](Screenshots(152).jpg)
-
 
 - Copy the google builder and paste in the command
 ```bash
