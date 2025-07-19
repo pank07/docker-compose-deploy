@@ -68,6 +68,9 @@ pack build suggest
 pack build --builder=<choose-builder-from-above-command> my-app-image
 ```
 
+<img width="1366" height="768" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/c16bb134-8724-4667-823f-f8cac3c3b37d" />
+
+
 - After build, check images
 ```bash
 docker images
