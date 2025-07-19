@@ -89,3 +89,9 @@ docker run -d -p <8080:8080> my-app-image:tag
 http://<PUBLIC-IP>:8000
 ```
 
+# After written Docker-Compose file finally project deployed
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7fb291c3-8022-483e-bcbd-74f32f950b4b" />
+<img width="1366" height="768" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/35528660-e8e1-43fa-9247-1d02a693b628" />
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/070e0f6e-9ac2-4c23-a579-06a824900a35" />
+
+
