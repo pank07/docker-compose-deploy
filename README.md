@@ -62,21 +62,19 @@ git clone <git_repo>
 ```bash
 pack build suggest
 ```
-
+<img width="1366" height="485" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/44777367-a674-4537-9ab6-70375ae8db40" />
 - Copy the google builder and paste in the command
 ```bash
 pack build --builder=<choose-builder-from-above-command> my-app-image
-```
-<img width="1366" height="485" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/44777367-a674-4537-9ab6-70375ae8db40" />
-
-- After build, check images
-```bash
-docker images
 ```
 <img width="1366" height="768" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4529ac02-ed6f-4586-a6b3-f1a063b8f952" />
 <img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/414b2cc7-0a60-4a22-a169-f52ef7ec0554" />
 <img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/c7e70b0b-c26f-48c0-987f-4b945b37c79c" />
 <img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/939272dc-eb42-4ff1-b20d-d538781c76d7" />
+- After build, check images
+```bash
+docker images
+```
 - Run the images as a container
 ```bash
 docker run -d -p <8080:8080> my-app-image:tag
