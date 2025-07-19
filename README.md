@@ -67,9 +67,7 @@ pack build suggest
 ```bash
 pack build --builder=<choose-builder-from-above-command> my-app-image
 ```
-
-<img width="1366" height="768" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/c16bb134-8724-4667-823f-f8cac3c3b37d" />
-
+<img width="1366" height="485" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/44777367-a674-4537-9ab6-70375ae8db40" />
 
 - After build, check images
 ```bash
