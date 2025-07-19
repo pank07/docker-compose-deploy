@@ -64,9 +64,11 @@ pack build suggest
 ```
 <img width="1366" height="485" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/44777367-a674-4537-9ab6-70375ae8db40" />
 - Copy the google builder and paste in the command
+
 ```bash
 pack build --builder=<choose-builder-from-above-command> my-app-image
 ```
+
 <img width="1366" height="768" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/4529ac02-ed6f-4586-a6b3-f1a063b8f952" />
 <img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/414b2cc7-0a60-4a22-a169-f52ef7ec0554" />
 <img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/c7e70b0b-c26f-48c0-987f-4b945b37c79c" />
