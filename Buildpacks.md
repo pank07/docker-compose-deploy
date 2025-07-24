@@ -7,7 +7,7 @@ sudo apt update
 ```
 
 - Install docker
-``bash
+```bash
 sudo apt install docker.io -y
 ```
 
